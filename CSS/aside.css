@@ -1,0 +1,14 @@
+aside {
+    background-color: #f6ecbf;
+    display: inline-block;
+    vertical-align: top;
+    width: 30em;
+    border: solid 4px rgb(172, 145, 167);
+    border-radius: 10px;
+    margin: 0px;
+}
+
+aside>img {
+    width: 200px;
+    margin: 20px;
+}

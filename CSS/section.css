@@ -1,0 +1,8 @@
+section {
+    margin: 0 auto;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+    border: 5px pink solid;
+    background-color: seashell;
+}
